@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb36ce2b.css",
-    "main.js": "/static/js/main.2a79d482.js",
+    "main.js": "/static/js/main.3f878ca4.js",
     "static/media/Outlook India Image.png": "/static/media/Outlook India Image.8e4d3a2425138f651e9c.png",
     "static/media/Rentify.png": "/static/media/Rentify.79beb775e8992c4bb831.png",
     "static/media/KindMeal.png": "/static/media/KindMeal.3a655434c7330d918696.png",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.bb36ce2b.css.map": "/static/css/main.bb36ce2b.css.map",
-    "main.2a79d482.js.map": "/static/js/main.2a79d482.js.map"
+    "main.3f878ca4.js.map": "/static/js/main.3f878ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.bb36ce2b.css",
-    "static/js/main.2a79d482.js"
+    "static/js/main.3f878ca4.js"
   ]
 }
