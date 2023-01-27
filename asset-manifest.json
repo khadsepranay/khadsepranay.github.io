@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.bb36ce2b.css",
-    "main.js": "/static/js/main.b96aee5e.js",
+    "main.js": "/static/js/main.2a79d482.js",
     "static/media/Outlook India Image.png": "/static/media/Outlook India Image.8e4d3a2425138f651e9c.png",
     "static/media/Rentify.png": "/static/media/Rentify.79beb775e8992c4bb831.png",
     "static/media/KindMeal.png": "/static/media/KindMeal.3a655434c7330d918696.png",
     "static/media/Resume.pdf": "/static/media/Resume.61bd21329bbbc96584c6.pdf",
     "static/media/Netlify.png": "/static/media/Netlify.603ef81c872f9df8c343.png",
-    "static/media/Professional_Picture.jpg": "/static/media/Professional_Picture.ae0576fa642190421d55.jpg",
+    "static/media/Professional_Picture.jpg": "/static/media/Professional_Picture.1de5be87de04f2fcccf8.jpg",
     "static/media/TrackingTime.png": "/static/media/TrackingTime.24bf8e35e477b61dd7a0.png",
     "static/media/Replit.png": "/static/media/Replit.2b5e721d024211b697af.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.bb36ce2b.css.map": "/static/css/main.bb36ce2b.css.map",
-    "main.b96aee5e.js.map": "/static/js/main.b96aee5e.js.map"
+    "main.2a79d482.js.map": "/static/js/main.2a79d482.js.map"
   },
   "entrypoints": [
     "static/css/main.bb36ce2b.css",
-    "static/js/main.b96aee5e.js"
+    "static/js/main.2a79d482.js"
   ]
 }
