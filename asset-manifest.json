@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d0becfc.css",
-    "main.js": "/static/js/main.23ba5465.js",
+    "main.js": "/static/js/main.f576b8f2.js",
     "static/media/Becool.png": "/static/media/Becool.714fcc2e2fc030951377.png",
     "static/media/Outlook India Image.png": "/static/media/Outlook India Image.8e4d3a2425138f651e9c.png",
     "static/media/Rentify.png": "/static/media/Rentify.79beb775e8992c4bb831.png",
@@ -9,7 +9,7 @@
     "static/media/KindMeal.png": "/static/media/KindMeal.3a655434c7330d918696.png",
     "static/media/Pranay-Khadse-Resume.pdf": "/static/media/Pranay-Khadse-Resume.d333cea1f1faf698e21f.pdf",
     "static/media/Netlify.png": "/static/media/Netlify.603ef81c872f9df8c343.png",
-    "static/media/Professional_Picture.jpg": "/static/media/Professional_Picture.1de5be87de04f2fcccf8.jpg",
+    "static/media/Professional_Picture.jpg": "/static/media/Professional_Picture.3bd5d5828e70dda75acf.jpg",
     "static/media/TrackingTime.png": "/static/media/TrackingTime.24bf8e35e477b61dd7a0.png",
     "static/media/Replit.png": "/static/media/Replit.2b5e721d024211b697af.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -24,10 +24,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6d0becfc.css.map": "/static/css/main.6d0becfc.css.map",
-    "main.23ba5465.js.map": "/static/js/main.23ba5465.js.map"
+    "main.f576b8f2.js.map": "/static/js/main.f576b8f2.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0becfc.css",
-    "static/js/main.23ba5465.js"
+    "static/js/main.f576b8f2.js"
   ]
 }
