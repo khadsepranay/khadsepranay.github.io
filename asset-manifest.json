@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d0becfc.css",
-    "main.js": "/static/js/main.ad6f8acb.js",
+    "main.js": "/static/js/main.ba2fccb2.js",
     "static/media/Becool.png": "/static/media/Becool.714fcc2e2fc030951377.png",
     "static/media/Outlook India Image.png": "/static/media/Outlook India Image.8e4d3a2425138f651e9c.png",
     "static/media/Rentify.png": "/static/media/Rentify.79beb775e8992c4bb831.png",
@@ -25,10 +25,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6d0becfc.css.map": "/static/css/main.6d0becfc.css.map",
-    "main.ad6f8acb.js.map": "/static/js/main.ad6f8acb.js.map"
+    "main.ba2fccb2.js.map": "/static/js/main.ba2fccb2.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0becfc.css",
-    "static/js/main.ad6f8acb.js"
+    "static/js/main.ba2fccb2.js"
   ]
 }
