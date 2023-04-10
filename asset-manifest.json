@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d0becfc.css",
-    "main.js": "/static/js/main.cf89e043.js",
+    "main.js": "/static/js/main.7a3e6e84.js",
     "static/media/Becool.png": "/static/media/Becool.714fcc2e2fc030951377.png",
     "static/media/Outlook India Image.png": "/static/media/Outlook India Image.8e4d3a2425138f651e9c.png",
     "static/media/Rentify.png": "/static/media/Rentify.79beb775e8992c4bb831.png",
@@ -14,21 +14,23 @@
     "static/media/Replit.png": "/static/media/Replit.2b5e721d024211b697af.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/MERN-Stack-Developer.png": "/static/media/MERN-Stack-Developer.ebb8b384d6da15359727.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/Typescript.png": "/static/media/Typescript.1805dc377569414f323f.png",
     "static/media/CodeSandbox.png": "/static/media/CodeSandbox.8591ebcc6968f14a9b65.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/portfolio.png": "/static/media/portfolio.314943efa6bdfb82ebde.png",
     "static/media/Codepen.png": "/static/media/Codepen.786882817058af7d639a.png",
     "static/media/Thunder.png": "/static/media/Thunder.e7f89c51cacb4fb9c726.png",
     "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6d0becfc.css.map": "/static/css/main.6d0becfc.css.map",
-    "main.cf89e043.js.map": "/static/js/main.cf89e043.js.map"
+    "main.7a3e6e84.js.map": "/static/js/main.7a3e6e84.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0becfc.css",
-    "static/js/main.cf89e043.js"
+    "static/js/main.7a3e6e84.js"
   ]
 }
